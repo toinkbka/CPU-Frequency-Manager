@@ -1,0 +1,2 @@
+# CPU-Frequency-Manager
+   Yếu tố tốc độ xung nhịp CPU sẽ ảnh hướng tới thời lượng pin. CPU có thể làm hao pin nếu chạy xung nhịp cao. Nếu vi xử lí chạy nhanh. Phone sẽ nhanh và đáp ứng tốt hơn nhưng pin sẽ mau cạn kiệt. Nếu vi xử lí chạy chậm hơn, phone sẽ có độ đáp ứng chậm hơn và chạy ứng dụng lâu hơn. Với phần mềm, bạn có thể thiết lập các profiles để quản lý tốt độ CPU dựa theo các điều kiện mà bạn định nghĩa.
